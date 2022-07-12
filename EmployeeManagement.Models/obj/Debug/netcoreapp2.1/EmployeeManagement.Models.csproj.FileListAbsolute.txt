@@ -1,0 +1,9 @@
+C:\Users\akash.deep\source\repos\KT\Study\AzureTableRestWithBaseAddress\EmployeeManagement.Models\obj\Debug\netcoreapp2.1\EmployeeManagement.Models.csprojAssemblyReference.cache
+C:\Users\akash.deep\source\repos\KT\Study\AzureTableRestWithBaseAddress\EmployeeManagement.Models\obj\Debug\netcoreapp2.1\EmployeeManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\akash.deep\source\repos\KT\Study\AzureTableRestWithBaseAddress\EmployeeManagement.Models\obj\Debug\netcoreapp2.1\EmployeeManagement.Models.AssemblyInfoInputs.cache
+C:\Users\akash.deep\source\repos\KT\Study\AzureTableRestWithBaseAddress\EmployeeManagement.Models\obj\Debug\netcoreapp2.1\EmployeeManagement.Models.AssemblyInfo.cs
+C:\Users\akash.deep\source\repos\KT\Study\AzureTableRestWithBaseAddress\EmployeeManagement.Models\bin\Debug\netcoreapp2.1\EmployeeManagement.Models.deps.json
+C:\Users\akash.deep\source\repos\KT\Study\AzureTableRestWithBaseAddress\EmployeeManagement.Models\bin\Debug\netcoreapp2.1\EmployeeManagement.Models.dll
+C:\Users\akash.deep\source\repos\KT\Study\AzureTableRestWithBaseAddress\EmployeeManagement.Models\bin\Debug\netcoreapp2.1\EmployeeManagement.Models.pdb
+C:\Users\akash.deep\source\repos\KT\Study\AzureTableRestWithBaseAddress\EmployeeManagement.Models\obj\Debug\netcoreapp2.1\EmployeeManagement.Models.dll
+C:\Users\akash.deep\source\repos\KT\Study\AzureTableRestWithBaseAddress\EmployeeManagement.Models\obj\Debug\netcoreapp2.1\EmployeeManagement.Models.pdb
